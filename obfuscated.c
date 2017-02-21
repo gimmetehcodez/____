@@ -7,7 +7,7 @@
 #define _(...) ;
 #define __ // O_o
 
-// 42 is the answer to life, the universe
+// 42 is the answer to life, the universe and everything.
 
 _01100001 __01010111 (FILE _0101_ _01100110 , _01100010 _0101_ _01100110_){
     _01100001 _01101100 = 0 ,_01110111 = _01101100 ,_01100011 = _01110111 _()_01100001 _01101001 _()
